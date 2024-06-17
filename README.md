@@ -1,3 +1,3 @@
-# zensation.piggyapps.app
+# Zensation Web Page
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/SlowDeepCoder/zensation.piggyapps.app)
+[zensation.piggyapps.app](https://www.zensation.piggyapps.app)
