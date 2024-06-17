@@ -15,4 +15,4 @@ You can download Zensation from the Google Play Store:
 
 ## Contact Us
 
-If you have any questions or suggestions, please do not hesitate to contact us at [piggyapps.dev@gmail.com](mailto:piggyapps.dev@gmail.com).
+If you have any questions or suggestions, contact us at [piggyapps.dev@gmail.com](mailto:piggyapps.dev@gmail.com).
