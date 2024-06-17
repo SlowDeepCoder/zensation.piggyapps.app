@@ -1,5 +1,5 @@
 export default {
-  title: 'Zensation Privacy Policy',
-  description: 'Privacy policy for the Zensation app.',
+  title: 'Zensation',
+  description: 'Web page for the Zensation app.',
   themeConfig: {},
 };
