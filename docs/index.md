@@ -1,5 +1,6 @@
 # Welcome to Zensation
 
+
 Welcome to the official documentation for the Zensation app, created by Piggy Apps. This page provides links to our Privacy Policy, Terms of Use, Attributions, and more.
 
 ## Documentation

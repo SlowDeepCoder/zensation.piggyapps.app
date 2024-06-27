@@ -10,8 +10,9 @@ The Application stores and processes personal data provided by you to the Servic
 
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
+- [Mixpanel](https://mixpanel.com/legal/terms-of-use/)
 - [Google Play Services](https://policies.google.com/terms)
-- [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+- [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 - [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
 The Service Provider is not responsible for certain aspects of the Application. Some functions require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function fully due to lack of access to Wi-Fi or if you have exhausted your data allowance.

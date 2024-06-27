@@ -23,8 +23,9 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
+- [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
 - [Google Play Services](https://policies.google.com/privacy)
-- [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+- [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
